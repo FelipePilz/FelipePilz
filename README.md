@@ -4,8 +4,8 @@
 
 <div>
   <a href="https://github.com/felipepilz">
-  <img height="180em" padding-right="-20px" src="https://github-readme-stats.vercel.app/api?username=felipepilz&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" padding-left="-5px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=felipepilz&layout=compact&langs_count=7&theme=tokyonight"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=felipepilz&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=felipepilz&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
 
  ##
