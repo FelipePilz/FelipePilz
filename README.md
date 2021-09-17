@@ -3,7 +3,7 @@
 - 🌱 Atualmente estou aprendendo Front-End, CSS & JavaScript;
 - 📫 Contato: felipevilvertpilz@gmail.com;
 
- <div>
+ <div style="color: blue;">
   <a href="https://github.com/felipepilz">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=felipepilz&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=felipepilz&layout=compact&langs_count=7&theme=dracula"/>
