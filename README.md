@@ -1,6 +1,6 @@
 <h1> Olá, eu sou o Felipe Vilvert Pilz </h1>
 - 👀 Eu gosto de jogar, programar e escutar música;<br>
-- 🌱 Atualmente estou aprendendo Front-End, CSS ,JavaScript e Java;<br><br>
+- 🌱 Atualmente estou aprendendo HTML, CSS ,JavaScript e Java;<br><br>
 
 <div>
   <a href="https://github.com/felipepilz">
