@@ -1,8 +1,8 @@
 <h1> Olá, eu sou o Felipe Vilvert Pilz </h1>
-- 👀 Eu gosto de jogar, programar e escutar música;<br>
-- 👨‍🎓 Formado no Técnico de Informática pelo SENAI e atualmente cursando Análise e Desenvolvimento de Sistemas na UDESC;
-- 📚 Fazendo cursos da Imersão Dev da Alura, e curso de desenvolvedor Front-End & JavaScript na Danki Code.
-- 🌱 Atualmente estou aprendendo HTML, CSS ,JavaScript e Java;<br><br>
+
+- 👀 Eu gosto de jogar, programar e escutar música
+- ‍🎓 Formado no Técnico de Informática pelo SENAI e atualmente cursando Análise e Desenvolvimento de Sistemas na UDESC;
+- 🌱 Estou aprendendo HTML, CSS ,JavaScript e Java;<br><br>
 
 <div>
   <a href="https://github.com/felipepilz">
