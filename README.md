@@ -2,7 +2,7 @@
 
 - 👀 Eu gosto de jogar, programar e escutar música
 - ‍🎓 Formado no Técnico de Informática pelo SENAI e atualmente cursando Análise e Desenvolvimento de Sistemas na UDESC;
-- 🌱 Estou aprendendo HTML, CSS, JavaScript e Java;<br><br>
+- 🌱 Estou estudando HTML, CSS, JavaScript e Java;<br><br>
 
 <div>
   <a href="https://github.com/felipepilz">
