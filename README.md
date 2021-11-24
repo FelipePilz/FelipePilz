@@ -2,7 +2,7 @@
 
 - 👀 Eu gosto de jogar, programar e escutar música;
 - ‍🎓 Formado no Técnico de Informática pelo SENAI e atualmente cursando Análise e Desenvolvimento de Sistemas na UDESC;
-- 🌱 Estou estudando TypeScript e Angular;<br><br>
+- 🌱 Estou estudando Angular e Java;<br><br>
 
 
 
