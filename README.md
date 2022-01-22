@@ -1,24 +1,16 @@
-<h1> Olá, eu sou o Felipe Vilvert Pilz </h1>
+<p align="center">
+  <img width="1000" height="450" src="https://user-images.githubusercontent.com/67395760/150650793-30e9d8ef-365b-4236-ab0d-fe670d65eb51.png">
+</p>
+ 
 
-- 👀 Eu gosto de jogar, programar e escutar música;
-- ‍🎓 Formado no Técnico de Informática pelo SENAI e atualmente cursando Análise e Desenvolvimento de Sistemas na UDESC;
-- 🌱 Estou estudando Java e Git;<br><br>
-
-
-
-<div>
-  <p align="center">
-    <a href="https://github.com/felipepilz">
-    <img height="200em" src="https://github-readme-stats.vercel.app/api?username=felipepilz&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/><br>
-    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=felipepilz&layout=compact&langs_count=7&theme=tokyonight"/>
-  </p>
+<div align="center">
+  <h3>Opa, eu sou o <a href="https://www.linkedin.com/in/felipevpilz/">Pilz</a> 👋</h3>
+  <h2>Trainee Técnico na Neomind 💻 e estudante de Análise e Desenvolvimentos de Sistemas na UDESC 🎓</h2>
 </div>
 
- ##
-<div align="center"> 
-  <a href = "mailto:felipevilvertpilz@gmail.com"><img src="https://img.shields.io/badge/-Gmail-BB001B?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href = "https://www.linkedin.com/in/felipe-vilvert-pilz-b623a6197" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-  <a href="https://steamcommunity.com/id/felipepilz/"><img src="https://img.shields.io/badge/-Steam-%23333?style=for-the-badge&logo=steam&logoColor=white" target="_blank"></a>
-</div>
+Sempre gostei muito de mexer em computadores e foi a partir de Técnico de Informática que fiz no SENAI que tive meu primeiro contato com desenvolvimento, agora estou trabalhando na área de manutenção na Neomind como Trainee Técnico, onde posso ter contato com o mundo do desenvolvimento profissionalmente.
 
-
+<h2>🤝 Conecte-se comigo:</h2>
+<a href = "https://www.linkedin.com/in/felipe-vilvert-pilz-b623a6197" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+<a href = "mailto:felipevilvertpilz@gmail.com"><img src="https://img.shields.io/badge/-Gmail-BB001B?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+<a href="https://steamcommunity.com/id/felipepilz/"><img src="https://img.shields.io/badge/-Steam-%23333?style=for-the-badge&logo=steam&logoColor=white" target="_blank"></a>
