@@ -5,7 +5,7 @@
 
 <div align="center">
   <h3>Opa, eu sou o <a href="https://www.linkedin.com/in/felipevpilz/">Pilz</a> 👋</h3>
-  <h2>Trainee Técnico na Neomind 💻 e estudante de Análise e Desenvolvimentos de Sistemas na UDESC 🎓</h2>
+  <h2>💻 Trainee Técnico na Neomind e Estudante de TADS na UDESC 🎓</h2>
 </div>
 
 Sempre gostei muito de mexer em computadores e foi a partir de Técnico de Informática que fiz no SENAI que tive meu primeiro contato com desenvolvimento, agora estou trabalhando na área de manutenção na Neomind como Trainee Técnico, onde posso ter contato com o mundo do desenvolvimento profissionalmente.
