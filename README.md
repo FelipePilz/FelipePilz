@@ -3,7 +3,7 @@
 </p>
 
 <div align="center">
-  <h3>Opa, eu sou o <a href="https://www.linkedin.com/in/felipevpilz/">Pilz</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></h3>
+  <h3>Opa, eu sou o <a href="https://www.linkedin.com/in/felipevpilz/">Pilz</a> <img height="32px" src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif"></h3>
   <h2>💻 Dev FullStack Júnior na Neomind e Estudante de TADS na UDESC 🎓</h2>
 </div>
 
