@@ -4,10 +4,10 @@
 
 <div align="center">
   <h3>Opa, eu sou o <a href="https://www.linkedin.com/in/felipevpilz/">Pilz</a> <img height="32px" src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif"></h3>
-  <h2>💻 Dev FullStack Júnior na Neomind e Estudante de TADS na UDESC 🎓</h2>
+  <h2>💻 Dev nas horas vagas e Estudante de TADS na UDESC 🎓</h2>
 </div>
 
-Sempre gostei muito de mexer em computadores e foi a partir de Técnico de Informática que fiz no SENAI que tive meu primeiro contato com desenvolvimento, agora estou trabalhando como Desenvolvedor Full Stack Júnior na Neomind, onde posso ter contato com o mundo do desenvolvimento profissionalmente e aprimorar meu conhecimento.
+Sempre gostei muito de mexer em computadores e foi a partir de Técnico de Informática que fiz no SENAI que tive meu primeiro contato com desenvolvimento, já trabalhei como Desenvolvedor Full Stack Júnior na Neomind, onde pude ter contato com o mundo do desenvolvimento profissionalmente e aprimorar meu conhecimento, agora estou buscando novas experiências.
 
 <h2>🤝 Conecte-se comigo:</h2>
 
